@@ -1,0 +1,88 @@
+@import "tailwindcss";
+
+:root {
+  /* Surfaces */
+  --color-background-base: #F8F3EA;
+  --color-surface-base: #EFE5D5;
+  --color-surface-raised: #FFFFFF;
+
+  /* Primary Brand Action Tokens */
+  --color-primary-base: #6B1F2A;
+  --color-primary-hover: #541720;
+  --color-primary-light: #F5E8EA;
+
+  /* Secondary / Accent Tokens */
+  --color-secondary-base: #B08D57;
+  --color-secondary-hover: #957544;
+  --color-secondary-light: #FAF5EC;
+
+  /* Neutrals & Muted */
+  --color-text-main: #252525;
+  --color-text-muted: #6F6A63;
+  --color-border-base: #DED5C8;
+  --color-border-accent: #B08D57;
+
+  /* Feedback & Accents */
+  --color-accent-terracotta: #9E3D24;
+  --color-feedback-success: #2D6A4F;
+  --color-feedback-destructive: #9E2A2B;
+}
+
+@theme {
+  --color-primary: var(--color-primary-base);
+  --color-primary-hover: var(--color-primary-hover);
+  --color-primary-light: var(--color-primary-light);
+
+  --color-secondary: var(--color-secondary-base);
+  --color-secondary-hover: var(--color-secondary-hover);
+  --color-secondary-light: var(--color-secondary-light);
+
+  --color-background: var(--color-background-base);
+  --color-surface: var(--color-surface-base);
+  --color-foreground: var(--color-text-main);
+  --color-muted: var(--color-text-muted);
+  --color-border: var(--color-border-base);
+  --color-accent: var(--color-accent-terracotta);
+}
+
+body {
+  background-color: var(--color-background-base);
+  color: var(--color-text-main);
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom Selection */
+::selection {
+  background-color: #6B1F2A;
+  color: #FFFFFF;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #F8F3EA;
+}
+::-webkit-scrollbar-thumb {
+  background: #DED5C8;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #B08D57;
+}
+
+/* Accessible reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

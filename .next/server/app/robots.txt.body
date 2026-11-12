@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /cart
+Disallow: /wishlist
+Disallow: /search
+
+Sitemap: https://kalyanisarees.com/sitemap.xml

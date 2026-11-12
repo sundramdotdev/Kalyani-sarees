@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[3865,["422","static/chunks/422-4d9904b380b9d17d.js","437","static/chunks/437-7e7ba7e560ca162a.js","426","static/chunks/426-46ba20502cccd65a.js","720","static/chunks/app/wishlist/page-e12c36d124299be0.js"],"WishlistClient"]
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[484,[],"ViewportBoundary"]
+9:I[484,[],"MetadataBoundary"]
+b:I[7121,[],""]
+c:I[4581,[],""]
+7:X
+e:X
+e:C
+0:{"buildId":"GGW27N2--P254nysdTJR2","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"My Saved Wishlist | Kalyani Sarees Dhanpatganj | Kalyani Sarees Dhanpatganj"}],["$","meta","1",{"name":"description","content":"View your saved sarees and ethnic outfits from Kalyani Sarees Dhanpatganj."}],["$","meta","2",{"name":"author","content":"Kalyani Sarees Dhanpatganj"}],["$","meta","3",{"name":"keywords","content":"Kalyani Sarees Dhanpatganj,Sarees in Dhanpatganj,Banarasi Sarees Dhanpatganj,Ladies clothing store Dhanpatganj,Kids ethnic wear Sultanpur,Indian wedding sarees UP"}],["$","meta","4",{"name":"creator","content":"Kalyani Sarees Dhanpatganj"}],["$","meta","5",{"name":"robots","content":"noindex, nofollow"}],["$","link","6",{"rel":"canonical","href":"https://kalyanisarees.com/wishlist"}],["$","meta","7",{"property":"og:title","content":"My Saved Wishlist | Kalyani Sarees Dhanpatganj"}],["$","meta","8",{"property":"og:description","content":"View your saved sarees and ethnic outfits from Kalyani Sarees Dhanpatganj."}],["$","meta","9",{"property":"og:url","content":"https://kalyanisarees.com/wishlist"}],["$","meta","10",{"property":"og:site_name","content":"Kalyani Sarees Dhanpatganj"}],["$","meta","11",{"property":"og:locale","content":"en_IN"}],["$","meta","12",{"property":"og:image","content":"https://kalyanisarees.com/images/og-default.jpg"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"My Saved Wishlist | Kalyani Sarees Dhanpatganj"}],["$","meta","16",{"property":"og:type","content":"website"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"My Saved Wishlist | Kalyani Sarees Dhanpatganj"}],["$","meta","19",{"name":"twitter:description","content":"View your saved sarees and ethnic outfits from Kalyani Sarees Dhanpatganj."}],["$","meta","20",{"name":"twitter:image","content":"https://kalyanisarees.com/images/og-default.jpg"}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$7","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+5:null
+10:true
+7:300
+7:C
+f:0
+a:"$undefined"
+d:"$undefined"
+6:"$undefined"
